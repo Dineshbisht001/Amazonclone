@@ -1,0 +1,2 @@
+# Amazonclone
+html + Css project
